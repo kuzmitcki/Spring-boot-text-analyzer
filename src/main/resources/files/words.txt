@@ -1,0 +1,296 @@
+I
+you
+he
+she
+it
+we
+they
+me
+him
+her
+us
+them
+my
+your
+his
+her
+its
+our
+their
+mine
+yours
+hers
+ours
+theirs
+this
+that
+these
+those
+such
+myself
+yourself
+himself
+herself
+itself
+ourselves
+yourselves
+themselves
+each other
+one another
+who
+what
+which
+whose
+whoever
+whatever
+whichever
+who
+whose
+which
+that
+some
+something
+somebody
+someone
+any
+anything
+anybody
+anyone
+no
+nothing
+nobody
+no one
+none
+neither
+other
+another
+all
+each
+both
+either
+every
+everything
+everybody
+everyone
+also
+and
+as far as
+as long as
+as soon as
+as well as
+because
+of
+both
+but
+either or
+however
+if	если
+in case
+in order
+moreover
+neither
+nevertheless
+no matter where
+no matter how
+no matter when
+no matter who
+no matter what
+no matter why
+nor
+now that
+once
+on the contrary
+on the other hand
+or
+otherwise
+so
+so
+not so as
+still
+than
+that
+that is why
+therefore
+although
+thus
+unless
+what
+whether
+while
+yet
+not yet
+for
+against
+like
+unlike
+with
+without
+within
+according to
+owing to
+in spite of
+in terms of
+on behalf of
+meanwhile
+from now on
+from time to time
+beyond
+whereas
+at least
+at last
+as if as though
+on condition
+aboard
+about
+above
+absent
+across
+afore
+after
+against
+along
+amid
+amidst
+among
+amongst
+around
+as
+aside
+aslant
+astride
+at
+athwart
+atop
+bar
+before
+behind
+below
+beneath
+beside
+besides
+between
+betwixt
+beyond
+but
+by
+circa
+despite
+down
+except
+for
+from
+given
+in
+inside
+into
+like
+mid
+minus
+near
+neath
+next
+notwithstanding
+of
+off
+on
+opposite
+out
+outside
+over
+pace
+per
+plus
+post
+pro
+qua
+round
+save
+since
+than
+through
+till
+times
+to
+toward
+towards
+under
+underneath
+unlike
+until
+up
+versus
+vs
+via
+vice
+with
+without
+barring
+concerning
+considering
+depending
+during
+granted
+excepting
+excluding
+failing
+following
+including
+past
+pending
+regarding
+alongside
+within
+outside
+upon
+onto
+throughout
+wherewith
+according to
+ahead of
+apart from
+as far as
+as for
+as of
+as per
+as regards
+aside from
+as well as
+away from
+because of
+by force of
+by means of
+by virtue of
+close to
+contrary to
+due to
+except for
+far from
+for the sake of
+in accordance with
+in addition to
+in case of
+in connection with
+in consequence of
+in front of
+in spite of
+in the back of
+in the course of
+in the event of
+in the middle of
+in to into
+inside of
+instead of
+in view of
+near to
+next to
+on account of
+on to onto
+on top of
+opposite to
+out of
+outside of
+owing to
+thanks to
+up to
+with regard
+with respect
