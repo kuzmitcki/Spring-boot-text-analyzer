@@ -41,7 +41,7 @@ public class FileServiceImpl implements FileService {
 
     @Override
     public List<String> getTopTenWords(Long id) throws IOException {
-        List<String> list = new ArrayList<>(getSortedWordsMap(fileRepo.getOne(id).getId()).keySet());
+        List<String> list = new LinkedList<>(getSortedWordsMap(fileRepo.getOne(id).getId()).keySet());
         Set<String> allIncorrectWords = getAllIncorrectWords();
         for (Iterator<String> iter = list.listIterator(); iter.hasNext(); ) {
             String s = iter.next();
@@ -64,7 +64,7 @@ public class FileServiceImpl implements FileService {
     @Override
     public Map<String, Integer> getSortedWordsMap(Long id){
         Scanner reader = null;
-        ArrayList<String> wordList = new ArrayList<>();
+        LinkedList<String> wordList = new LinkedList<>();
         try {
             reader = new Scanner(new FileReader(uploadPath + "/" + fileRepo.getOne(id).getFilename()));
             while (reader.hasNext()) {
@@ -102,7 +102,6 @@ public class FileServiceImpl implements FileService {
     @Override
     public boolean isBracketsCorrect(Long id) throws IOException {
         Scanner scanner = new Scanner(new FileReader(uploadPath + "/" + fileRepo.getOne(id).getFilename()));
-        Stack<Character> first = new Stack<>();
         StringBuilder stringBuilder = new StringBuilder();
         while (scanner.hasNext()){
             stringBuilder.append(scanner.next());
